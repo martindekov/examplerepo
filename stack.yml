@@ -9,3 +9,4 @@ functions:
     image: examplefun
     secrets:
       - examplefun
+      
