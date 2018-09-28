@@ -14,5 +14,5 @@ func Handle(req []byte) string {
 	if len(file) > 0 {
 	}
 
-	return "Your secret: " + string(file)
+	return "Your swag secret: " + string(file)
 }
